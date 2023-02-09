@@ -1,2 +1,0 @@
-# blog-repo
-learnig-react
